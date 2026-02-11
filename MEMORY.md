@@ -64,6 +64,10 @@
 33. **2026-02-11**: La autenticación GitHub es un bloqueo crítico que afecta despliegue de hosting backup y control de versiones
 34. **2026-02-11**: La preparación de infraestructura (90% completada) precede al lanzamiento comercial agresivo
 35. **2026-02-11**: El modo "ataque total" requiere resolución de bloqueos técnicos antes de ejecución comercial
+36. **2026-02-11**: GitHub Push Protection bloquea tokens en commits; usar `[REMOVED_FOR_GITHUB_PUSH]` en archivos públicos
+37. **2026-02-11**: Crear repositorios limpios sin historial problemático es más eficiente que reescribir historia Git
+38. **2026-02-11**: La autenticación GitHub con tokens personales resuelve problemas de permisos entre cuentas diferentes
+39. **2026-02-11**: Un README.md completo es crítico para documentar proyectos complejos con múltiples componentes
 
 ## Proyectos Activos
 
@@ -141,7 +145,7 @@
 5. **Almacenamiento**: D:\ trabajo activo, C:\ cache, E:\ archivo
 
 ### **Bloqueos Actuales:**
-1. **Autenticación GitHub**: Error 403 - cuenta `edgarfloresguerra2011-a11y` vs repositorio `eddyflores100-lang`. Necesita token de acceso con scopes `repo` + `workflow`
+1. **✅ RESUELTO - Autenticación GitHub**: Token configurado exitosamente. Repositorio sincronizado: https://github.com/eddyflores100-lang/ai-profit-army.git
 2. **Sub-agents fallidos**: 23 activos (de ~28), muchos con errores 402 (límite créditos APIs) o colgados
 
 ### **Prioridad Inmediata:**
