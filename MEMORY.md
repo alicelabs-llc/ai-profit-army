@@ -19,7 +19,7 @@
 
 ## Infraestructura
 - **n8n**: localhost:5678 (user: edgar.flores.guerra.2011@gmail.com)
-- **GitHub**: eddyflores100-lang
+- **GitHub**: alicelabs-llc
 - **Almacenamiento**: D:\ trabajo activo, C:\ cache, E:\ archivo
 
 ## Lecciones Clave
