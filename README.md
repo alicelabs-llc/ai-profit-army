@@ -75,7 +75,7 @@ workspace/
 - **Failover**: Sistema automático de health checks
 
 ### Control de Versiones
-- **Repositorio**: https://github.com/eddyflores100-lang/ai-profit-army.git
+- **Repositorio**: https://github.com/alicelabs-llc/ai-profit-army.git
 - **Branch**: master
 - **Estado**: Sincronizado y funcional
 
