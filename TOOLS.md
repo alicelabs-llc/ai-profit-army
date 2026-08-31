@@ -12,8 +12,8 @@
 
 ## GitHub
 - **Token**: `[REMOVED_FOR_GITHUB_PUSH]`
-- **Repositorio**: https://github.com/eddyflores100-lang/ai-profit-army.git
-- **Cuenta**: eddyflores100-lang
+- **Repositorio**: https://github.com/alicelabs-llc/ai-profit-army.git
+- **Cuenta**: alicelabs-llc
 
 ## URLs Críticas
 - **Landing page**: https://ai-profit-army.vercel.app
