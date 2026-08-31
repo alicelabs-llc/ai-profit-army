@@ -145,7 +145,7 @@ git push
 1. **OpenClaw WebChat** (actual)
 2. **n8n UI**: http://localhost:5678
 3. **Vercel Dashboard**: https://vercel.com
-4. **GitHub**: https://github.com/eddyflores100-lang
+4. **GitHub**: https://github.com/alicelabs-llc
 
 ### Documentación:
 - `MEMORY.md` - Contexto histórico
