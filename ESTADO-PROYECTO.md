@@ -182,8 +182,8 @@
 
 ### CREDENCIALES
 - **n8n**: http://localhost:5678
-  - User: edgar.flores.guerra.2011@gmail.com
-  - Pass: Opencl@w2026
+  - User: (email-retirado-por-seguridad)
+  - Pass: REMOVED_FOR_SECURITY_ROTATE_N8N_PASSWORD
 
 ### ARCHIVOS IMPORTANTES
 1. `landing-ai-profit-army/index.html` - Landing principal

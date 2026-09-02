@@ -38,8 +38,8 @@
 3. **WhatsApp Server**: Configurado pero no corriendo
 
 ### Credenciales Verificadas:
-- **n8n User**: edgar.flores.guerra.2011@gmail.com
-- **n8n Pass**: Opencl@w2026
+- **n8n User**: (email-retirado-por-seguridad)
+- **n8n Pass**: REMOVED_FOR_SECURITY_ROTATE_N8N_PASSWORD
 - **GitHub Token**: `[REMOVED_FOR_GITHUB_PUSH]` (seguro para push)
 - **Vercel Token**: Disponible en TOOLS.md
 
